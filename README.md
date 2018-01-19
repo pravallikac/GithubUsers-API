@@ -6,13 +6,13 @@ This is developed using the React JS.
 ![github-followers-screenshot](user.png)
 
 
-## **Details **:
+## Details:
 - Display the user's GitHub profile, follower count, and a list of the user's follower avatars and their names
 - If the user has many followers, return a portion and create a "load more" button
 - The button should persist until there are no more followers to fetch
 - Nav bar shows my LinkedIn , Github and profile Myportfolio developed during masters
 
-##**Tools **:
+## Tools :
 - Boostrap – Used to design the front end and Responsive across devices
 - React js – To implement the API
 - CSS – To add custom styles
